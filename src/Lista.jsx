@@ -48,7 +48,7 @@ class Lista extends React.Component {
             </div>
           </div>
           <div class="row">
-            <Frete show={this.state.value/100>=10.0}/>
+            <Frete show={this.state.value/100>10.0}/>
           </div>
         </div>
         <hr class="solid"/>
