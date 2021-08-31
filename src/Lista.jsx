@@ -32,7 +32,7 @@ class Lista extends React.Component {
   render(){
     return (
       <div class="list-box">
-        <h1>Meu Carrinho</h1>
+        <h1 class="meu-carrinho">Meu Carrinho</h1>
         <hr class="solid"/>
         {this.state.itens.map((item) =>
         <Item key={item.id} data={item}/>

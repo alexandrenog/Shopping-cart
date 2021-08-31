@@ -11,6 +11,10 @@
   -5px 5px 10px rgb(186,197,216),
   5px -5px 10px rgb(186,197,216);
 }
+.meu-carrinho{
+  font-size: 20px;
+  margin: 12px 0 2px 0;
+}
 hr.solid {
   border-top: 2px solid #e1e1e1;
   width: 100%;
