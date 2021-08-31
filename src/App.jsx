@@ -1,11 +1,12 @@
 import React from 'react';
+import ReactDOM from 'react-dom'
 import './App.css';
+import {Lista} from './Lista';
 
 function App() {
   return (
     <main>
-      <lista>
-      </lista>
+      <Lista/>
     </main>
   );
 }

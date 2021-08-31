@@ -1,0 +1,29 @@
+.item-container{
+  padding: 10px 18px 10px 18px;
+}
+.item-image-container{
+  width: 25%;
+}
+.item-info-container{
+  padding-top: 14px;
+  padding-left: 10px;
+}
+.item-name{
+  font-size: 15px;
+  margin: 0
+}
+.item-price{
+  font-size: 11px;
+  margin: 0;
+  color: #777
+}
+.item-sellprice{
+  font-size: 14px;
+  margin: 0
+}
+.miniatura{
+  max-height:100px;
+  max-width: 100px;
+  border: 2px solid #e1e1e1;
+  padding: 0 10px 0 10px;
+}
