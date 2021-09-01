@@ -1,12 +1,10 @@
 .item-container{
   padding: 10px 18px 10px 18px;
-  transition: padding 150ms ease-in-out 50ms,
-  background-color 20ms;
+  transition: padding 150ms ease-in-out 50ms;
 }
 .item-container:hover{
   padding: 10px 14px 10px 22px;
-  transition: padding  150ms ease-in-out 50ms, background-color 40ms;
-  background-color: rgba(15, 15, 15, 0.062);
+  transition: padding  150ms ease-in-out 50ms;
 }
 .item-image-container{
   width: 25%;
