@@ -1,5 +1,10 @@
 .item-container{
   padding: 10px 18px 10px 18px;
+  transition: padding 150ms ease-in 50ms
+}
+.item-container:hover{
+  padding: 10px 14px 10px 22px;
+  transition: padding 150ms ease-in 50ms
 }
 .item-image-container{
   width: 25%;
